@@ -1,4 +1,4 @@
-<div dir="rtl" style="text-align:right">
+<div dir="rtl" style='direction:rtl; text-align: right'>
 
 # یادگیری ماشین و پردازش تصویر در حوزه پزشکی
 
